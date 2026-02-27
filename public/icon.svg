@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="NGO tracker icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d8a4e" />
+      <stop offset="100%" stop-color="#3cb371" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <path fill="#fff" d="M129 286h54v97h-54zm100-71h54v168h-54zm100-43h54v211h-54z" />
+  <path fill="#fff" d="M129 167h254v33H129z" />
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "Lean NGO Financial Tracker",
+  "short_name": "NGO Tracker",
+  "description": "Offline-first NGO expense tracking with sponsor transparency.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f7f2",
+  "theme_color": "#0d8a4e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
